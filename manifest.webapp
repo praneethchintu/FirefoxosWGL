@@ -1,0 +1,10 @@
+
+{
+
+"name":"login",
+"description": "login app",
+"launch_path":"/index2.html",
+"icons":{
+              "128":"/img/icon-128.png"
+}
+}
